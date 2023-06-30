@@ -13,3 +13,7 @@ Proceed ([y]/n)? y
 Next, type ‘y‘ and then press ENTER to proceed:
 
 After a short period of time, your installation would be completed.
+
+1.Dply - Data Manipulation - This file contains Importand function with application of dplyr for data manipulation operation
+
+2.R.ipynb File contains - preprocessing the data for model building.
